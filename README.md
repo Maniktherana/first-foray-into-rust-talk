@@ -4,6 +4,7 @@
 ## Echo Server
 To run the echo server:
 ```bash
+cd echo_server
 cargo run
 ```
 
@@ -20,6 +21,7 @@ This is just my attempt of [AoC Day 1](https://adventofcode.com/2023/day/1). You
 
 To run a test:
 ```bash
+cd aoc_day1
 cargo test --bin part1.rs
 ```
 
