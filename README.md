@@ -1,5 +1,6 @@
 # Slides and code examples from my talk
 
+In this talk I covered my learnings when trying to solve Advent of Code and building a TCP server in Rust.
 
 ## Echo Server
 To run the echo server:
