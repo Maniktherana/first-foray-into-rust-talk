@@ -13,7 +13,7 @@ Test it with telnet:
 telnet localhost 8080
 ```
 
-Optionally, host the server on a vm and test it against [this](https://protohackers.com/problem/0)
+Optionally, host the server on a vm and test it against [Protohacker's tests](https://protohackers.com/problem/0)
 
 
 ## Advent of Code
