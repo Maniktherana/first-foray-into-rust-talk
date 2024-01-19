@@ -1,3 +1,6 @@
+
+<img width="1291" alt="Screenshot 2024-01-19 at 11 29 03 PM" src="https://github.com/Maniktherana/first-foray-into-rust-talk/assets/14011425/24b18040-9337-41a6-bd28-51426d9f4689">
+
 # Slides and code examples from my talk
 
 In this talk I covered my learnings when trying to solve Advent of Code and building a TCP server in Rust.
